@@ -1,0 +1,12 @@
+       	 __My Self__    
+	
+    Name:
+    Ali Raza
+    Father Name:
+    Bahadar Ali
+    I live in Layyah
+    I read programming
+    I am eighteen years old 
+    I am playing games
+    I am making Programs
+
